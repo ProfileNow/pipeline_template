@@ -2,7 +2,7 @@
 name = "sample_project"
 version = "0.0.1"
 authors = [{ name = "jonathan.silva@genesisdigitalsolutions.pt" }]
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.11,<3.15"
 dependencies = [
     # Any dependencies for jobs and pipelines in this project can be added here
     # See also https://docs.databricks.com/dev-tools/bundles/library-dependencies
